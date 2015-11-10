@@ -1,0 +1,181 @@
+#wrapper {width: 768px;}
+header {background-position: 0px 36px;}
+.menu {width: 560px;}
+.plans {margin: 0;}
+ul.planning {float: right;}
+.search_for {float: right;}
+.social {display: none;}
+.navigation {margin: 0 0 0 18px;}
+.navigation .booking {display: none;}
+.navigation > ul.nav > li > a {padding: 13px 29px 15px 26px;}
+.navigation > ul.nav > li:hover > a {
+	border-left: 11px solid #fff;
+	border-right: 11px solid #fff;
+	padding: 8px 18px 10px 17px;
+}
+ul.nav li:last-of-type .drop {
+	right: 0;
+	left: auto;
+}
+a.logo {
+	float: left;
+	margin: 36px 0 0 22px;
+}
+.gallery ul.list li {
+	width: 768px;
+	overflow: hidden;
+}
+.gallery ul.list li a img {margin: 0 0 0 -225px;}
+.see {
+	width: 610px;
+	margin-left: 42px;
+	background: none;
+}
+.see > img:nth-of-type(1) {display: none;}
+.see > img:nth-of-type(2) {display: block;}
+.gallery2 {display: none;}
+.popular {
+	display: block;
+	margin: 5px 0 0 3px;
+}
+.popular h4 {
+	margin: 0px 0 7px 0;
+	font-size: 12px;
+	line-height: 14px;
+	text-transform: uppercase;
+	color: #333399;
+}
+.popular .ballet {overflow: hidden;}
+.popular .ballet img {float: left;}
+.popular .ballet img:nth-of-type(2) {display: none;}
+.popular .ballet .jazz {
+	width: 440px;
+	float: left;
+	border: none;
+	margin: 3px 0 19px 13px;
+	padding: 0;
+}
+.ballet h2 {
+	margin: 0;
+	font-size: 20px;
+	line-height: 20px;
+}
+.ballet span {
+	font-size: 10px;
+	line-height: 12px;
+}
+.ballet span:nth-of-type(2) {display: none;}
+.ballet p {
+	margin: 12px 0 18px 0;
+	line-height: 17px;
+}
+a.view {
+	width: 102px;
+	padding: 5px 0 0 19px;
+}
+.attractions {display: none;}
+.lights {padding: 30px 0 30px 0;}
+article.ideas {
+	width: 690px;
+	margin: 0 auto;
+}
+article.ideas div.slide {width: 100%;}
+article.ideas div.slide .news p {margin: 13px 0 17px 0;}
+article.ideas a.see_all {display: none;}
+.trips {width: 688px;}
+.news {width: 500px;}
+footer {text-align: left;}
+.sponsors {display: none;}
+.sponsors2 {
+	margin: 0 0 0 35px;
+	display: block;
+	width: 210px;
+	float: left;
+}
+.sponsors2 ul {
+	margin: 0;
+	padding: 5px 0 0 0;
+	list-style: none;
+	overflow: hidden;
+}
+.sponsors2 ul li {float: left;}
+.sponsors2 ul li a img {
+	float: left;
+	margin: 17px 0 0 0;
+}
+.sponsors2 ul li:first-of-type a img {margin: 17px 34px 0 0;}
+.links {
+	float: left;
+	width: 500px;
+	background: #fff;
+	padding: 0;
+}
+.links ul li {
+	padding: 15px 7px 16px 7px;
+	border-bottom: 1px solid #bebebe;
+	background-position: 99% 60%;
+}
+.links ul li:nth-of-type(1), .links ul li:nth-of-type(7) {padding: 15px 7px 16px 0;}
+.links .sponsors2 {display: none;}
+.links span {margin: 15px 0 33px 0px;}
+div.line_holder {max-width: 768px;}
+div.line {max-width: 725px;}
+div.line .booking {width: 175px;}
+div.line .booking > a.book {
+	padding: 12px 0 5px 38px;
+	background-position: 0% 56%;
+}
+div.line .booking .trip_book {left: -45px;}
+div.line span {margin: 10px 0 0 3px;}
+ul.sprites li {margin: 0 13px 0 0;}
+ul.sprites li a {height: 32px;}
+ul.sprites li a.fb {
+	width: 27px;
+	background-position: 0 -19px;
+}
+ul.sprites li a.linked {
+	width: 29px;
+	background-position: -27px -19px;
+}
+ul.sprites li a.youtube {
+	width: 29px;
+	background-position: -56px -19px;
+}
+ul.sprites li a.pinterest {
+	width: 31px;
+	background-position: -85px -19px;
+}
+ul.sprites li a.google {
+	width: 29px;
+	background-position: -116px -19px;
+}
+ul.sprites li a.tripad {
+	width: 48px;
+	background-position: -145px -19px;
+}
+
+#tourlist .lights {
+	padding: 22px 0 0 0;
+	background: linear-gradient(to bottom,rgba(205,212,243,0.8),rgba(205,212,243,0));
+ 	background: -webkit-linear-gradient(top,rgba(205,212,243,0.8),rgba(205,212,243,0));
+ 	background: -moz-linear-gradient(top,rgba(205,212,243,0.8),rgba(205,212,243,0));
+ 	background: -ms-linear-gradient(top,rgba(205,212,243,0.8),rgba(205,212,243,0));
+ 	background: -p-linear-gradient(top,rgba(205,212,243,0.8),rgba(205,212,243,0));
+}
+#tourlist #main {
+	width: 723px;
+	margin: 0 auto;
+	background: #fff url(../img/article_bg2.png) no-repeat 0% 100%;
+}
+#tourlist #sidebar {width: 230px;}
+#tourlist .navig {margin: 27px 0 20px 26px;}
+#tourlist .accommodation {margin: 0 0 0 28px;}
+#tourlist .accommodation li {border-bottom: 1px solid #cbcbcb;}
+#tourlist #content {width: 460px;}
+#tourlist article.ideas h3 {width: 310px;}
+#tourlist article.ideas div.slide .news {
+	width: 230px;
+	margin: 0px 0 0 10px;
+}
+#tourlist .news p {margin: 5px 0 9px 0;}
+#tourlist footer .links {margin: 10px 0 0 0;}
