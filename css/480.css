@@ -24,6 +24,7 @@ a.logo {
 	overflow: hidden;
 }
 .gallery ul.list li a img {margin: 0 0 111px -325px;}
+img.second_gal {margin-left: -600px;}
 ul.list li > span {
 	left: 29%;
 	top: 25%;
@@ -114,6 +115,7 @@ a.view {
 	line-height: 24px;
 	width: 212px;
 	padding: 12px 0 17px 30px;
+	margin-left: 15px;
 }
 .attractions {display: none;}
 .lights {display: none;}
