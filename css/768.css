@@ -26,6 +26,7 @@ a.logo {
 	overflow: hidden;
 }
 .gallery ul.list li a img {margin: 0 0 0 -225px;}
+img.second_gal {margin-left: -400px;}
 .see {
 	width: 610px;
 	margin-left: 42px;
